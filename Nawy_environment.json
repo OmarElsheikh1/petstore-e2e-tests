@@ -1,0 +1,33 @@
+{
+	"id": "51795413-aaeb-436f-a6ad-8dfab5a01c42",
+	"name": "Pet Store Production - Nawy task",
+	"values": [
+		{
+			"key": "URL",
+			"value": "https://petstore.swagger.io/v2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ID",
+			"value": "102938",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "petName",
+			"value": "Bruno",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Species",
+			"value": "Wyvern",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-02-01T21:54:12.734Z",
+	"_postman_exported_using": "Postman/11.30.4"
+}
