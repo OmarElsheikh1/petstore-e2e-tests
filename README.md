@@ -8,7 +8,7 @@ This project involves using Postman to test the Pet Store API. I created a colle
 
 #### 1. **Create the Collection**
 
-I created a Postman collection named **Pet Store - Nawy Task**, which includes seven requests:
+I created a Postman collection named **Pet Store**, which includes seven requests:
 
 - **POST**: Add a new pet
 - **GET**: Get the pet by ID
